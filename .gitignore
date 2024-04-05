@@ -1,0 +1,10 @@
+
+AutoScripts/.settings/org.eclipse.core.resources.prefs
+AutoScripts/.DS_Store
+.DS_Store
+AutoScripts/.project
+*.prefs
+*.class
+AutoScripts/.classpath
+.project
+AutoScripts/chromedriver
