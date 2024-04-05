@@ -19,12 +19,11 @@ public class AddToCart
 		driver.findElement(By.xpath("//*[@id=\"header-search-icon\"]/svg")).click();
 		driver.findElement(By.xpath("//*[@type='text']")).sendKeys("tops");
 		
-		
-				
-		
-		
-		
-		
-		
 	}
+	
+	public void newMethod() {
+//		System.out.
+	}
+	
+	
 }
